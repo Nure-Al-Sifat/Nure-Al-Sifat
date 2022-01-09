@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Nure-Al-Sifat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hi, I’m @Nure-Al-Sifat
+- Languages - Java,Solidity,JavaScript,php & HTML,CSS
+- Libraries/Frameworks: - Bootstrap, React and REST API
+- Databases: - MySQL
+- Tools: - Hardhat,Truffle, Ganacehe, CLI, Git, Github and Developer Tools
+- Blokchains - Ethereum,Binance,Polygon(Prev Matic),Tron
 
-<!---
-Nure-Al-Sifat/Nure-Al-Sifat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
