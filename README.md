@@ -2,11 +2,14 @@
         <h3 align="center">Blockchain Developer</h3>
         <img align='right' width='400' src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif"></img>
         <p align="left"> <img src="https://komarev.com/ghpvc/?username=nure-al-sifat&label=Profile%20views&color=0e75b6&style=flat" alt="nure-al-sifat" /> </p>
-        <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-        <p align="left">- 👨‍💻 All of my projects are available at [sifattechnest.com](sifattechnest.com)</p>
-        <p align="left">- 💬 Ask me about **Smart Contracts, Blockchain Development Solidity, Decentralized Applications (DApps), JavaScript, Ethereum, Web3, Non-Fungible Tokens (NFTs), React.js, Web Development**</p>
-        <p align="left">- 📫 How to reach me **nuraalsifat@gmail.com**</p>
-        <p align="left">- 📄 Know about my experiences [resume](resume)</p>
+        <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>    
+       - 👨‍💻 All of my projects are available at [sifattechnest.com](sifattechnest.com)
+
+- 💬 Ask me about **Smart Contracts, Blockchain Development, Solidity, Decentralized Applications (DApps), JavaScript, Ethereum, Web3, Non-Fungible Tokens (NFTs), React.js, Web Development**
+
+- 📫 How to reach me **nuraalsifat@gmail.com**
+
+- 📄 Know about my experiences [resume](resume)
         <h3 align="left">Connect with me:</h3> 
         <p align="left"><a href="https://www.linkedin.com/in/nure-al-sifat-289731156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nure-al-sifat" height="30" width="40" /></a><a href="https://discord.gg/SIFAT#0486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SIFAT#0486" height="30" width="40" /></a></p>
 <h3 align="left">Languages:</h3>
