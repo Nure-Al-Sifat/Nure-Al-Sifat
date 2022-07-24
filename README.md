@@ -2,10 +2,11 @@
         <h3 align="center">Blockchain Developer</h3>
         <img align='right' width='400' src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif"></img>
         <p align="left"> <img src="https://komarev.com/ghpvc/?username=nure-al-sifat&label=Profile%20views&color=0e75b6&style=flat" alt="nure-al-sifat" /> </p>
-        <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>    
-       - 👨‍💻 All of my projects are available at [sifattechnest.com](sifattechnest.com)
+        <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
+        
+- 👨‍💻 All of my projects are available at [sifattechnest.com](sifattechnest.com)
 
-- 💬 Ask me about **Smart Contracts, Blockchain Development, Solidity, Decentralized Applications (DApps), JavaScript, Ethereum, Web3, Non-Fungible Tokens (NFTs), React.js, Web Development**
+- 💬 Ask me about **Smart Contracts, Blockchain Development Solidity, Decentralized Applications (DApps), JavaScript, Ethereum, Web3, Non-Fungible Tokens (NFTs), React.js, Web Development**
 
 - 📫 How to reach me **nuraalsifat@gmail.com**
 
